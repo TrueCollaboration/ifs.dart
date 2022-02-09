@@ -1,4 +1,4 @@
-import 'package:true_core/core/library.dart';
+import 'package:true_core/library.dart';
 
 abstract class FragmentReference {
   static const int HEAD_SIZE = 8 + 8 + 8;

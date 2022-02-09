@@ -2,7 +2,7 @@ import 'dart:async';
 
 import 'package:ifs/src/external/exceptions.dart';
 import 'package:ifs/src/internal/util.dart';
-import 'package:true_core/core/library.dart';
+import 'package:true_core/library.dart';
 
 import 'ESectionResult.dart';
 import 'SectionController.dart';

@@ -7,7 +7,7 @@ import 'package:ifs/src/internal/SectionControllerImpl.dart';
 import 'package:ifs/src/internal/sections/ExtandableSection.dart';
 import 'package:ifs/src/internal/sections/HeadSection.dart';
 import 'package:ifs/src/internal/util.dart';
-import 'package:true_core/core/library.dart';
+import 'package:true_core/library.dart';
 
 import 'ISection.dart';
 import 'abstract/EInputType.dart';

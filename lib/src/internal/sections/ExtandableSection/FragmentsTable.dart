@@ -1,5 +1,5 @@
 import 'package:ifs/src/internal/ESectionResult.dart';
-import 'package:true_core/core/library.dart';
+import 'package:true_core/library.dart';
 
 import 'FragmentReference.dart';
 

@@ -9,7 +9,7 @@ import 'package:ifs/src/external/exceptions.dart';
 import 'package:ifs/src/internal/ESectionResult.dart';
 import 'package:ifs/src/internal/Section.dart';
 import 'package:ifs/src/internal/util.dart';
-import 'package:true_core/core/library.dart';
+import 'package:true_core/library.dart';
 
 import 'ExtandableSection/Fragment.dart';
 import 'ExtandableSection/FragmentReference.dart';
