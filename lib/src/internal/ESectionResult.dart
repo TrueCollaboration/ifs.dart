@@ -1,0 +1,5 @@
+enum ESectionResult {
+  OK,
+  
+  CORRUPTED,
+}

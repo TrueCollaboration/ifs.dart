@@ -1,0 +1,10 @@
+import 'dart:typed_data';
+
+import 'package:logger_ex/internal/SectionDelegate.dart';
+
+class HeadSectionDelegate extends SectionDelegate {
+  final Uint8List identifier;
+  HeadSectionDelegate({
+    required this.identifier,
+  });
+}

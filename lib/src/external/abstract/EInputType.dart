@@ -1,0 +1,4 @@
+enum EInputType {
+  read,
+  write,
+}

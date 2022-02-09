@@ -1,0 +1,33 @@
+// abstract class Offset {
+//   int get value;
+
+//   factory Offset.absolute(int value) {
+//     return AbsoluteOffset(value);
+//   }
+
+//   // factory Offset.relative(AbsoluteOffset absolute, int value) {
+//   //   return RelativeOffset(absolute, value);
+//   // }
+// }
+
+// class AbsoluteOffset implements Offset {
+//   @override
+//   final int value;
+//   const AbsoluteOffset(this.value);
+// }
+
+// class RelativeOffset implements Offset {
+//   final AbsoluteOffset absolute;
+
+//   @override
+//   int get value => absolute.value;
+
+//   final int relative;
+//   const RelativeOffset(this.absolute, this.relative);
+// }
+
+class RelativeOffset  {
+  final int value;
+
+  const RelativeOffset(this.value);
+}

@@ -1,0 +1,4 @@
+import 'package:logger_ex/library.dart';
+
+abstract class SectionDelegate {
+}
