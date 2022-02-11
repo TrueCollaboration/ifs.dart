@@ -1,11 +1,6 @@
 library truecollaboration.true_core.intrafile_system;
 
 export 'src/external/abstract/EInputType.dart';
-export 'src/external/abstract/InputController.dart';
-export 'src/external/abstract/InputReader.dart';
-export 'src/external/abstract/InputWriter.dart';
-
-export 'src/external/inputs/FileInput.dart';
 
 export 'src/external/exceptions.dart';
 export 'src/external/IFragment.dart';

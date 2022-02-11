@@ -11,9 +11,7 @@ import 'package:true_core/library.dart';
 
 import 'ISection.dart';
 import 'abstract/EInputType.dart';
-import 'abstract/InputController.dart';
 import 'exceptions.dart';
-import 'inputs/FileInput.dart';
 
 /// TODO: defragmentation
 class IntrafileSystem {  
